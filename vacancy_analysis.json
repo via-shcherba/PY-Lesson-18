@@ -1,0 +1,736 @@
+[
+    {
+        "keywords": "python developer",
+        "count": 78,
+        "average_salary": 119255,
+        "requirements": [
+            {
+                "name": "Аналитик-детектив данных в тревел",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Frontend-разработчик в команду K2 Cloud",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Руководитель группы разработки",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Начальник финансового отдела",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Frontend-разработчик",
+                "count": 3,
+                "persent": 3.85
+            },
+            {
+                "name": "Junior Python Developer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик",
+                "count": 12,
+                "persent": 15.38
+            },
+            {
+                "name": "Python разработчик (Django)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA engineer / Тестировщик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Инженер-тестировщик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python Django Разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Руководитель стратегических проектов",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Junior python (django) разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA инженер (Software)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA Engineer",
+                "count": 2,
+                "persent": 2.56
+            },
+            {
+                "name": "Backend-Developer Python (junior)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Программист-разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Java Developer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "ML engineer (middle-senior)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Unity developer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Manual QA",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA engineer (ручное тестирование)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Тестировщик / QA",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python разработчик (Песочница)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик (Junior)",
+                "count": 3,
+                "persent": 3.85
+            },
+            {
+                "name": "Тестировщик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Стажер - разработчик SQL (BI)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик в команду K2 Cloud",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Инженер-программист junior",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python - разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Ведущий администратор систем мониторинга Zabbix",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Backend developer (Golang)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Инженер по Искусственному интеллекту / ML/DL engineer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Chief Data Officer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA Engineer (LFO)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Аналитик данных",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Java Developer / Разработчик на Java (backend)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Backend-разработчик Python (Junior+)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Специалист технической поддержки (SQL)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Junior Python разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA manual (Middle)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Продуктовый аналитик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python разработчик (Junior)",
+                "count": 2,
+                "persent": 2.56
+            },
+            {
+                "name": "Инженер-программист",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Разработчик (без опыта)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Backend разработчик (Django, FastAPI, Python)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Data Engineer senior",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик (Junior/Middle)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Аналитик баз данных (junior)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python разработчик",
+                "count": 2,
+                "persent": 2.56
+            },
+            {
+                "name": "QA инженер (бэкенд разработка платформы)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Backend-разработчик",
+                "count": 3,
+                "persent": 3.85
+            },
+            {
+                "name": "Middle+ QA Engineer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "ML-инженер",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Сетевой инженер (Linux)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Инженер по тестированию ПО",
+                "count": 2,
+                "persent": 2.56
+            },
+            {
+                "name": "Junior IT специалист | Младший аналитик | Системный аналитик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик (FastApi)",
+                "count": 2,
+                "persent": 2.56
+            },
+            {
+                "name": "Аналитик по машинному обучению",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Data Analyst",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Junior Java Developer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Middle Python Backend Developer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA engineer(SberWorksAPI)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Руководитель отдела внутреннего ИТ",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Middle Fullstack QA Engineer (удалённо)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Prompt-engineer",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Junior web программист / интегратор (арбитраж трафика)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Начинающий DevOps-инженер / Стажёр",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python/Django Junior Backend-разработчик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "QA manual (Senior)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Промпт-инженер (Prompt engineer)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Data Scientist",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Junior Python разработчик (робототехника)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Стажер Python Back-end (офис)",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "BI-аналитик",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Python-разработчик — Middle",
+                "count": 1,
+                "persent": 1.28
+            },
+            {
+                "name": "Data analyst/Аналитик данных",
+                "count": 1,
+                "persent": 1.28
+            }
+        ]
+    },
+    {
+        "keywords": "жестянщик",
+        "count": 66,
+        "average_salary": 90919,
+        "requirements": [
+            {
+                "name": "Рабочий на производство",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автожестянщик - Жестянщик",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Начинающий специалист по кузовному ремонту",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик автомобиля",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик/рабочий на производство",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Гибщик-жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автомаляр",
+                "count": 5,
+                "persent": 7.58
+            },
+            {
+                "name": "Кузовщик (жестянщик)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Слесарь - сборщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Изолировщик",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Автомаляр / подготовщик / универсал",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Гибщик жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Рихтовщик-арматурщик/Сварщик-жестянщик кузовов (ученик)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Рабочий производственного цеха",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автомаляр-жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик",
+                "count": 23,
+                "persent": 34.85
+            },
+            {
+                "name": "Автожестянщик",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Автожестянщик - кузовщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик малярно кузовного участка",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик-арматурщик в автоцентр \"NISSAN, GEELY, HAVAL\"",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик / гибщик тонколистового металла",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Слесарь-сборщик",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Жестянщик/рихтовщик/автожестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автожестянщик-арматурщик универсал",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Оператор гибщик металла/Жестянщик/оператор гибочного агрегата",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Кузовщик/Арматурщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик (вентиляционщик)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автомаляр (жестянщик)",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Автослесарь по ремонту грузовых автомобилей",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик (на производство вентиляции из цинка)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Мойщик автомобилей",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автожестянщик / ученик жестянщика",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Подсобный рабочий (разнорабочий на строительной площадке)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Мастер-стажер кузовного ремонта",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Ученик жестянщик-кузовщик в автосалон",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Кузовщик-жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автомаляр (подготовщик/жестянщик)/Автослесарь",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик\\Кузовщик\\Рихтовщик (Восход 43/1)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик (вентиляционное оборудование)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автомаляр/поготовщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автожестянщик/Жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Маляр-жестянщик покрасочного цеха",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Слесарь по изготовлению деталей и узлов систем вентиляции и кондиционирования",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик вентиляции в цех",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик в автосалон (Эльмаш)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Маляр-жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Кузовщик-жестянщик, автомаляр, кузовщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик по вентиляции",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик в цеx вeнтиляции",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик на производство",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик в цех кузовного ремонта",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик на производство вентиляционных изделий",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Начинающий специалист по кузовной сборке в автосалон",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Жестянщик в кузовной цех",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Маляр жестянщик/Ученик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Рабочий на производство-Жестянщик (для формирования кадрового резерва)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик/оператор станков воздуховоды",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик в автосалон",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Механик (Производство, г. Киржач)",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Сварщик жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Арматурщик-жестянщик",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Жестянщик фасонных изделий (воздуховоды)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автожестянщик / Жестянщик (Арматурщик)",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Автослесарь",
+                "count": 1,
+                "persent": 1.52
+            },
+            {
+                "name": "Арматурщик",
+                "count": 2,
+                "persent": 3.03
+            },
+            {
+                "name": "Жестянщик на листогибочный станок",
+                "count": 1,
+                "persent": 1.52
+            }
+        ]
+    }
+]
